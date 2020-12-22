@@ -1,0 +1,9 @@
+/*
+ * Hide close buttons on tabs
+ *
+ * Contributor(s): Jay Z
+ */
+
+.tabbrowser-tab .tab-close-button {
+  display: none !important;
+}
