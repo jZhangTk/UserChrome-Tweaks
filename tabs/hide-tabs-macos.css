@@ -17,18 +17,18 @@
   display: block;
   position: absolute;
   visibility: visible;
-  margin-left: 12px;
-  margin-top: 12px;
+  margin-left: 7px;
+  margin-top: 7px;
 }
 
 #TabsToolbar .titlebar-buttonbox.titlebar-color {
-	margin-left: 0px !important;
+  margin-left: 0px !important;
 }
 
 /*
  * Make room for window controls and a bit of extra space for window drag/move.
  * Only apply this style when not in fullscreen mode.
  */
-#main-window:not([inFullscreen]) #nav-bar{
-  padding: 0px 0px 0px 70px !important;
+#main-window:not([inFullscreen]) #nav-bar {
+  padding: 0px 0px 0px 80px !important;
 }
